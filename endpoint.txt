@@ -1,0 +1,11 @@
+Web Service Endpoint
+
+Web address (URL) at which clients of a specific service can gain access to it
+
+- A port is a unique endpoint with its own address
+- A protocol is a specific way to interact
+- A message is a piece of abstract lingo that aids communication
+- A port type is what operations this port can perform
+- An operation is an action that the service can do for you
+- A service is a group of endpoints that share something in common
+
